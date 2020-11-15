@@ -15,4 +15,6 @@ Much of my work was done on google colab and on my personal system.
   Representation of a plot to view the number of posts made on different labels
   <img src="https://github.com/JM-Rishav/Recommendation-system/blob/main/Posts_vs_label.png">
   
+  As one can see that there are few or none posts for the labels while some labels exceeds very high amount of posts.
+  
 </div>  
