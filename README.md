@@ -17,4 +17,8 @@ Much of my work was done on google colab and on my personal system.
   
   As one can see that there are few or none posts for the labels while some labels exceeds very high amount of posts.
   
+  
+  Another piece of visualization which shows the number of posts made for multiple lables in a single post.
+  <img src="https://github.com/JM-Rishav/Recommendation-system/blob/v0.1/Labels_for_post.png">
+  
 </div>  
