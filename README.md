@@ -12,5 +12,7 @@ Much of my work was done on google colab and on my personal system.
 
 <div>
   <h3>Exploratory data analysis on the data</h3>
+  Representation of a plot to view the number of posts made on different labels
+  <img src="https://github.com/JM-Rishav/Recommendation-system/blob/main/Posts_vs_label.png">
   
 </div>  
