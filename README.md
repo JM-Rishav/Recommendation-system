@@ -28,4 +28,13 @@ Much of my work was done on google colab and on my personal system.
   <br>Suppose, if the user likes technology and science category posts then 
   he should get the recommendation from the posts containing technology and science category.</br>
   
-</div>  
+  you can find the ipynb file <a href="https://github.com/JM-Rishav/Recommendation-system/blob/main/Collaborative%20Filtering.ipynb">here</a>
+</div>
+
+<div>
+  <h3>Content Based Filtering of similar posts for the given post for a user</h3>
+  <br>Suppose, if the posts is of cricket sports category then similar posts recommended
+  should contain sports cricket category</br>
+  
+  you can find the ipynb file <a href="https://github.com/JM-Rishav/Recommendation-system/blob/main/Content%20Based%20Filtering.ipynb">here</a>
+</div>
